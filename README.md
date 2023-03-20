@@ -1,3 +1,6 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hatake0901)](https://solved.ac/hatake0901/)
+
+
 <div align=center>  
   <h1>브실골 탈출 기원</h1>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hatake0901)](https://solved.ac/hatake0901)
