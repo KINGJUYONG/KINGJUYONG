@@ -7,7 +7,7 @@
   </div>
 
 <div align=center>
-  <h1>브실골 탈출 기원</h1>
+  <h3>브실골 탈출 기원, 이렇게 올려두면 쪽팔려서라도 빨리 올리겠지</h3>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <br>
