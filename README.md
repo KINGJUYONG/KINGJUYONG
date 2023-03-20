@@ -1,14 +1,13 @@
 
 
 <div align=center>  
-  <h1>브실골 탈출 기원</h1>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hatake0901)](https://solved.ac/hatake0901/)
   
   </div>
 
 <div align=center>
-  <h1>'해본 것' 말고 '할 줄 아는 것'</h1>
+  <h1>브실골 탈출 기원</h1>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <br>
