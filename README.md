@@ -5,7 +5,6 @@
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hatake0901)](https://solved.ac/hatake0901/)
   
-  
   </div>
 
 <div align=center>
