@@ -2,9 +2,8 @@
 <h1>브실골 탈출 기원</h1>
 </div>
 
-<div align=center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hatake0901)](https://solved.ac/hatake0901)
-</div>
+
 
 <div align=center>
 <h1>'해본 것' 말고 '할 줄 아는 것'</h1>
