@@ -1,13 +1,13 @@
-<!-- 
 
-<div align=center>  
+
+<!-- <div align=center>  
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hatake0901)](https://solved.ac/hatake0901/)
   
-  </div>
+  </div> -->
 
 <div align=center>
-  <h3>신주용 이거 보면 까먹지 말고</h3>
+<!--   <h3>신주용 이거 보면 까먹지 말고</h3>
   <h1>레포에 설명 다 달아라 까먹으면 너는 죽는다</h1>
   <h3>쪽팔리니까 솔브닥 티어도 빨리 올리고</h3>
   <h3>브실골 탈출 기원</h3>
