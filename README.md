@@ -1,10 +1,10 @@
 
 
-<!-- <div align=center>  
+<div align=center>  
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hatake0901)](https://solved.ac/hatake0901/)
   
-  </div> -->
+  </div>
 
 <div align=center>
 <!--   <h3>신주용 이거 보면 까먹지 말고</h3>
