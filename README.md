@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <br>
   <br>
-  <img src="https://ebpf.foundation/wp-content/uploads/sites/9/2023/03/ebpf_logo_color_on_white-2.png" height="40" background-image="white">
+  <img src="https://github.com/user-attachments/assets/fbf11048-ad2c-4b75-a267-8f3a3617f6d6" height="40" background-image="white">
   <br>
   <br>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
