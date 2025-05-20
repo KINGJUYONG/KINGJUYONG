@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <br>
   <br>
-  <img src="https://img.shields.io/badge/openstack-ED1944?style=for-the-badge&logo=openstack&logoColor=white">  
+  <img src="https://img.shields.io/badge/Openstack-ED1944?style=for-the-badge&logo=openstack&logoColor=white">  
+  <img src="https://img.shields.io/badge/Cloudstack-2AA5DC?style=for-the-badge&logo=apachecloudstack&logoColor=white">  
+
 </div>
 
 
